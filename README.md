@@ -1,6 +1,6 @@
 # ML-RF-Script
 
-pip install pandas \\
+pip install pandas <br>
 pip install sklearn \\
 pip install warnings \\
 pip install matplotlib \\
